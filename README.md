@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Here you can find my latest Projects
 
-You can use the [editor on GitHub](https://github.com/Gauraviiitian/Gauraviiitian.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hey, Myself Gaurav and you can see my projects right here.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am currently studying Computer Science Engineering at IIIT Kalyani in second year.
 
 ```markdown
 Syntax highlighted code block
